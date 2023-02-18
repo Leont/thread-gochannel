@@ -1,0 +1,6 @@
+*.tar.gz
+.lwpcookies
+Thread-GoChannel-*
+cover_db
+.build
+*.sw[po]
