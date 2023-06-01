@@ -1,6 +1,8 @@
 Revision history for Thread-Channel
 
 {{$NEXT}}
+
+0.002     2023-06-01 20:15:02+02:00 Europe/Amsterdam
           - Update refcount.h
           - Switch to Module::Build::Tiny
 
