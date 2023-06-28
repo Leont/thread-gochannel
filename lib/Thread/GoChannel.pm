@@ -30,7 +30,7 @@ XSLoader::load('Thread::GoChannel', __PACKAGE__->VERSION);
 
 =head1 DESCRIPTION
 
-Thread::GoChannel is an alternative to L<Thread::Queue>. By using a smart serialization ladder, it can achieve high performance without compromising on flexibility.
+Thread::GoChannel is an alternative to L<Thread::Queue>. By using a smart duplication instead of serialization it can achieve high performance without compromising on flexibility.
 
 =method new()
 
