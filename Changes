@@ -1,6 +1,7 @@
 Revision history for Thread-Channel
 
 {{$NEXT}}
+          - Add interpreter pointer to functions initializing/destroying refcounters
           - Fix incorrect description
 
 0.002     2023-06-01 20:15:02+02:00 Europe/Amsterdam
